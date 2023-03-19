@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkpwa"]=self["webpackChunkpwa"]||[]).push([[443],{7381:(a,e,s)=>{s.r(e),s.d(e,{default:()=>h});var u=s(3396),n={class:"about"},r=(0,u._)("h1",null,"This is an about page",-1),t=[r];function c(a,e){return(0,u.wg)(),(0,u.iD)("div",n,t)}var i=s(89);const l={},p=(0,i.Z)(l,[["render",c]]),h=p}}]);
+//# sourceMappingURL=about.cdfdf42a.js.map
